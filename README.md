@@ -65,7 +65,7 @@ Veri setindeki sınıf dengesizliği (%73 No, %27 Yes) nedeniyle değerlendirmed
 
 ## Proje Dosyaları
 
-* `telco-churn-notebook.ipynb`
+* `telco-churn-prediction.ipynb`
 * `requirements.txt`
 * `README.md`
 
